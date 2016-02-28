@@ -45,11 +45,11 @@ blockquote {
 }
 
 .box {
-	border: 1px solid lightgrey;
+	/*border: 1px solid lightgrey;*/
 	margin-bottom: 3%;
 	border-radius: 5px;
 	text-align: center;
-	background-color: lightgrey;
+	background-color: #FAFAFA;
 	padding: 3%;
 }
 
