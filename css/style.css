@@ -1,8 +1,33 @@
 body {
+	font-family: 'Crimson Text', serif;
+	text-align: center;
+}
+
+p {
+	text-align: left;
 }
 
 .fancy, h2, h3, h4 {
 	font-family: 'Amatic SC', cursive;
+}
+
+a {
+	text-decoration: none;
+}
+
+nav {
+	display: ;
+}
+
+ul {
+	list-style-type: none;
+	padding: 0;
+	margin: 0;
+}
+
+li {
+	display: inline;
+	margin-right: 5%;
 }
 
 .fancy {
@@ -10,22 +35,39 @@ body {
 	font-size: 7em;
 }
 
-nav {
-	display: ;
-}
-
 .spiel {
-	margin-bottom: 5%;
+	margin-bottom: 2%;
+	margin-top: 5%;
 }
 
 .box {
-	border: 1px solid black;
+	border: 1px solid lightgrey;
 	margin-bottom: 3%;
-	border-radius: 15px;
+	border-radius: 5px;
 	text-align: center;
+	background-color: lightgrey;
+	padding: 3%;
 }
 
 .box h4 {
 	margin-bottom: -1%;
 	margin-top: 4%;
+}
+
+.crud {
+	text-align: right;
+	margin-top: -6%;
+}
+
+.crud a {
+	display: inline;
+	margin-right: 5%;
+}
+
+.quotes {
+	text-align: center;
+}
+
+footer p {
+	text-align: center;
 }
