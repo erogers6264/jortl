@@ -30,6 +30,10 @@ li {
 	margin-right: 5%;
 }
 
+blockquote {
+	margin-bottom: 0;
+}
+
 .fancy {
 	font-weight: bold;
 	font-size: 7em;
@@ -66,6 +70,7 @@ li {
 
 .quotes {
 	text-align: center;
+	margin-bottom: 3%;
 }
 
 footer p {
